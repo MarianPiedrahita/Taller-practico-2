@@ -1,0 +1,14 @@
+D:\Scripting Talleres Practicos\Taller practico 2\bin\Debug\netcoreapp3.1\Taller practico 2.exe
+D:\Scripting Talleres Practicos\Taller practico 2\bin\Debug\netcoreapp3.1\Taller practico 2.deps.json
+D:\Scripting Talleres Practicos\Taller practico 2\bin\Debug\netcoreapp3.1\Taller practico 2.runtimeconfig.json
+D:\Scripting Talleres Practicos\Taller practico 2\bin\Debug\netcoreapp3.1\Taller practico 2.runtimeconfig.dev.json
+D:\Scripting Talleres Practicos\Taller practico 2\bin\Debug\netcoreapp3.1\Taller practico 2.dll
+D:\Scripting Talleres Practicos\Taller practico 2\bin\Debug\netcoreapp3.1\Taller practico 2.pdb
+D:\Scripting Talleres Practicos\Taller practico 2\obj\Debug\netcoreapp3.1\Taller practico 2.csproj.AssemblyReference.cache
+D:\Scripting Talleres Practicos\Taller practico 2\obj\Debug\netcoreapp3.1\Taller practico 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Scripting Talleres Practicos\Taller practico 2\obj\Debug\netcoreapp3.1\Taller practico 2.AssemblyInfoInputs.cache
+D:\Scripting Talleres Practicos\Taller practico 2\obj\Debug\netcoreapp3.1\Taller practico 2.AssemblyInfo.cs
+D:\Scripting Talleres Practicos\Taller practico 2\obj\Debug\netcoreapp3.1\Taller practico 2.csproj.CoreCompileInputs.cache
+D:\Scripting Talleres Practicos\Taller practico 2\obj\Debug\netcoreapp3.1\Taller practico 2.dll
+D:\Scripting Talleres Practicos\Taller practico 2\obj\Debug\netcoreapp3.1\Taller practico 2.pdb
+D:\Scripting Talleres Practicos\Taller practico 2\obj\Debug\netcoreapp3.1\Taller practico 2.genruntimeconfig.cache
